@@ -25,4 +25,4 @@
     <img aling="center" alt="" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 </div><br/>
 
-entusiasta na área tech, cursando 1º periodo em engenharia de software.
+entusiasta na área tech, cursando engenharia de software.
